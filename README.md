@@ -73,8 +73,9 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 I am continuously learning and improving through consistent practice.
 Open to collaboration, discussions, and opportunities.
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928dab,100:1f1c2c&height=150&section=footer&text=Consistency%20%7C%20Discipline%20%7C%20Growth&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=75"/>
 </p>
+
+---
