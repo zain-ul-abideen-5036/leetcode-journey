@@ -39,7 +39,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | Day | Problem          | Difficulty | Topic  | Approach        | Solution |
 | --- | ---------------- | ---------- | ------ | --------------- | -------- |
 | 1   | Two Sum          | Easy       | Array  | Brute Force     | ✔        |
-
+| 2   | Two Sum          | Easy       | Array  | Hash Table      | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
 
