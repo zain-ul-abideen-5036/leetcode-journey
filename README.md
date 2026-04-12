@@ -36,10 +36,11 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 
 ## Daily Progress
 
-| Day | Problem          | Difficulty | Topic  | Approach        | Solution |
-| --- | ---------------- | ---------- | ------ | --------------- | -------- |
-| 1   | Two Sum          | Easy       | Array  | Brute Force     | ✔        |
-| 2   | Two Sum          | Easy       | Array  | Hash Table      | ✔        |
+| Day | Problem                     | Difficulty | Topic  | Approach        | Solution |
+| --- | --------------------------- | ---------- | ------ | --------------- | -------- |
+| 1   | Two Sum                     | Easy       | Array  | Brute Force     | ✔        |
+| 2   | Two Sum                     | Easy       | Array  | Hash Table      | ✔        |
+| 3   | Contains Duplicate          | Easy       | Array  | Brute Force     | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
 
