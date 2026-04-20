@@ -45,13 +45,17 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 5   | Longest Common Prefix                           | Easy       | Array, Strings  | Character-by-character comparison (column-wise). Iterate over each character of the first string and compare with all other strings. Stop when mismatch or string ends.    | ✔        |
 | 6   | Remove Duplicates from Sorted Array             | Easy       | Array, Two Pointers         | Two Pointer (In-place overwrite)   | ✔        |
 | 7   | Remove Element                                  | Easy       | Arrays, Two Pointers        | Traverse array and overwrite valid elements using a second pointer (k) to track position    | ✔        |
+
 > This table is updated daily to reflect consistency and progress.
 
 ---
 
 ## Languages & Tools
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+</p>
 
 ---
 
