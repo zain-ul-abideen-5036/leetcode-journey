@@ -40,7 +40,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | --- | ----------------------------------------------- | ---------- | -----------| ----------------------- | -------- |
 | 1   | Two Sum                                         | Easy       | Array      | Check all pairs using nested loops and return indices when sum equals target.| ✔        |
 | 2   | Two Sum                                         | Easy       | Array      | Use a hash map to store values and indices; for each element, check if its complement exists and return indices if found.  | ✔        |
-| 3   | Contains Duplicate                              | Easy       | Array           | Brute Force             | ✔        |
+| 3   | Contains Duplicate                              | Easy       | Array           | Use a brute-force (nested loops) approach to compare each element with all others; return true if any duplicate is found.      | ✔        |
 | 4   | Minimum Distance to the Target Element          | Easy       | Array           | Linear Scan (Greedy)    | ✔        |
 | 5   | Longest Common Prefix                           | Easy       | Array, Strings  | Character-by-character comparison (column-wise). Iterate over each character of the first string and compare with all other strings. Stop when mismatch or string ends.    | ✔        |
 | 6   | Remove Duplicates from Sorted Array             | Easy       | Array, Two Pointers         | Two Pointer (In-place overwrite)   | ✔        |
