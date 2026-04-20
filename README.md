@@ -37,8 +37,8 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 ## Daily Progress
 
 | Day | Problem                                         | Difficulty | Topic  | Approach                | Solution |
-| --- | ----------------------------------------------- | ---------- | --------------- | ----------------------- | -------- |
-| 1   | Two Sum                                         | Easy       | Array           | Brute Force             | ✔        |
+| --- | ----------------------------------------------- | ---------- | -----------| ----------------------- | -------- |
+| 1   | Two Sum                                         | Easy       | Array      | Check all pairs using nested loops and return indices when sum equals target.| ✔        |
 | 2   | Two Sum                                         | Easy       | Array           | Hash Table              | ✔        |
 | 3   | Contains Duplicate                              | Easy       | Array           | Brute Force             | ✔        |
 | 4   | Minimum Distance to the Target Element          | Easy       | Array           | Linear Scan (Greedy)    | ✔        |
