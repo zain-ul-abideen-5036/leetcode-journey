@@ -45,6 +45,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 5   | Longest Common Prefix                           | Easy       | Array, Strings  | Character-by-character comparison (column-wise). Iterate over each character of the first string and compare with all other strings. Stop when mismatch or string ends.    | ✔        |
 | 6   | Remove Duplicates from Sorted Array             | Easy       | Array, Two Pointers         | Two Pointer (In-place overwrite)   | ✔        |
 | 7   | Remove Element                                  | Easy       | Arrays, Two Pointers        | Traverse array and overwrite valid elements using a second pointer (k) to track position    | ✔        |
+| 8   | Search Insert Position  | Easy       | Array, Binary Search  | Linear scan to find position, optimized using binary search on sorted array.| ✔        |
 
 > This table is updated daily to reflect consistency and progress.
 
