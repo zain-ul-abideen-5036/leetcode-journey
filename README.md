@@ -47,10 +47,11 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 7   | Remove Element                                  | Easy       | Arrays, Two Pointers        | Traverse array and overwrite valid elements using a second pointer (k) to track position    | ✔        |
 | 8   | Search Insert Position  | Easy       | Array, Binary Search  | Linear scan to find position, optimized using binary search on sorted array.| ✔        |
 | 9   | Plus One     | Easy     | Array, Math, Simulation   | Traverse digits from right to left; if digit is 9 set to 0 and carry continues, otherwise increment and return. If all digits are 0, insert 1 at the beginning.    | ✔        |
-| 10   | Merge Sorted Array     | Easy       | Arrays, Sorting, Two Pointers  | Append nums2 into nums1 then sort full array using built-in sort. | ✔        |
+| 10  | Merge Sorted Array     | Easy       | Arrays, Sorting, Two Pointers  | Append nums2 into nums1 then sort full array using built-in sort. | ✔        |
+| 11  | Single Number          | Easy       | Array, Bit Manipulation      | Traverse the array and apply XOR on all elements. Duplicate numbers cancel out, leaving the unique element.  | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
-
+  
 ---
 
 ## Languages & Tools
