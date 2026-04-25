@@ -49,6 +49,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 9   | Plus One     | Easy     | Array, Math, Simulation   | Traverse digits from right to left; if digit is 9 set to 0 and carry continues, otherwise increment and return. If all digits are 0, insert 1 at the beginning.    | ✔        |
 | 10  | Merge Sorted Array     | Easy       | Arrays, Sorting, Two Pointers  | Append nums2 into nums1 then sort full array using built-in sort. | ✔        |
 | 11  | Single Number          | Easy       | Array, Bit Manipulation      | Traverse the array and apply XOR on all elements. Duplicate numbers cancel out, leaving the unique element.  | ✔        |
+| 12  | Missing Number      | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting   | Use the sum formula n(n+1)/2 to compute the expected sum of numbers from 0 to n, then subtract the actual array sum to find the missing number.  | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
   
