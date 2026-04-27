@@ -53,6 +53,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 13  | Move Zeroes         | Easy       | Array, Two Pointers      | Use two pointers: move non-zero elements forward and fill remaining positions with zeros. | ✔        |
 | 14  | Binary Search       | Easy       | Array, Binary Search     | Use two pointers (left, right) and repeatedly divide the search space by comparing the middle element with target. | ✔        |
 | 15  | Best Time to Buy and Sell Stock  | Easy       | Array, Dynamic Programming  | Track minimum price so far and compute maximum profit in one pass (O(n)). | ✔        |
+| 16  | Find the Difference  | Easy      | Junior, Hash Table, String, Bit Manipulation, Sortingg  | Compare characters of both strings while traversing t, and detect the extra character when mismatch occurs. | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
   
