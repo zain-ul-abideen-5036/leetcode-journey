@@ -52,6 +52,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 12  | Missing Number      | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting   | Use the sum formula n(n+1)/2 to compute the expected sum of numbers from 0 to n, then subtract the actual array sum to find the missing number.  | ✔        |
 | 13  | Move Zeroes         | Easy       | Array, Two Pointers      | Use two pointers: move non-zero elements forward and fill remaining positions with zeros. | ✔        |
 | 14  | Binary Search       | Easy       | Array, Binary Search     | Use two pointers (left, right) and repeatedly divide the search space by comparing the middle element with target. | ✔        |
+| 15  | Best Time to Buy and Sell Stock  | Easy       | Array, Dynamic Programming  | Track minimum price so far and compute maximum profit in one pass (O(n)). | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
   
