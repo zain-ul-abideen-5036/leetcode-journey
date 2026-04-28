@@ -37,10 +37,10 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 ## Daily Progress
 
 | Day | Problem                                         | Difficulty | Topic  | Approach                | Solution |
-| --- | ----------------------------------------------- | ---------- | -----------| ----------------------- | -------- |
+| --- | ------------------------------------------------- | ---------- | -----------| ----------------------- | -------- |
 | 1   | Two Sum                                         | Easy       | Array      | Check all pairs using nested loops and return indices when sum equals target.| ✔        |
 | 2   | Two Sum                                         | Easy       | Array      | Use a hash map to store values and indices; for each element, check if its complement exists and return indices if found.  | ✔        |
-| 3   | Contains Duplicate 1                             | Easy       | Array           | Use a brute-force (nested loops) approach to compare each element with all others, return true if any duplicate is found.      | ✔        |
+| 3   | Contains Duplicate I  | Easy       | Array           | Use a brute-force (nested loops) approach to compare each element with all others, return true if any duplicate is found.      | ✔        |
 | 4   | Minimum Distance to the Target Element          | Easy       | Array           | Traverse the array and for each occurrence of target, compute the absolute distance from start; keep track of the minimum distance.    | ✔        |
 | 5   | Longest Common Prefix                           | Easy       | Array, Strings  | Character-by-character comparison (column-wise). Iterate over each character of the first string and compare with all other strings. Stop when mismatch or string ends.    | ✔        |
 | 6   | Remove Duplicates from Sorted Array             | Easy       | Array, Two Pointers         | Two Pointer (In-place overwrite)   | ✔        |
@@ -54,7 +54,8 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 14  | Binary Search       | Easy       | Array, Binary Search     | Use two pointers (left, right) and repeatedly divide the search space by comparing the middle element with target. | ✔        |
 | 15  | Best Time to Buy and Sell Stock  | Easy       | Array, Dynamic Programming  | Track minimum price so far and compute maximum profit in one pass (O(n)). | ✔        |
 | 16  | Find the Difference  | Easy      | Junior, Hash Table, String, Bit Manipulation, Sortingg  | Compare characters of both strings while traversing t, and detect the extra character when mismatch occurs. | ✔        |
-| 17  | Contains Duplicate 1 (Optimized)  | Easy       | Array, Hashing  | Use an unordered_set to track seen elements. If an element is already present in the set, return true. This provides an optimized O(n) solution. | ✔        |
+| 17  | Contains Duplicate I (Optimized)  | Easy       | Array, Hashing  | Use an unordered_set to track seen elements. If an element is already present in the set, return true. This provides an optimized O(n) solution. | ✔        |
+| 18  | Contains Duplicate II  | Easy       | Array, Hash Table, Sliding Window  | Check all pairs using nested loops; if duplicate values exist within distance ≤ k, return true. | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
   
