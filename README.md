@@ -54,6 +54,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 14  | Binary Search       | Easy       | Array, Binary Search     | Use two pointers (left, right) and repeatedly divide the search space by comparing the middle element with target. | ✔        |
 | 15  | Best Time to Buy and Sell Stock  | Easy       | Array, Dynamic Programming  | Track minimum price so far and compute maximum profit in one pass (O(n)). | ✔        |
 | 16  | Find the Difference  | Easy      | Junior, Hash Table, String, Bit Manipulation, Sortingg  | Compare characters of both strings while traversing t, and detect the extra character when mismatch occurs. | ✔        |
+| 17  | Contains Duplicate (Optimized)  | Easy       | Array, Hashing  | Use an unordered_set to track seen elements. If an element is already present in the set, return true. This provides an optimized O(n) solution. | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
   
