@@ -56,6 +56,7 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 | 16  | Find the Difference  | Easy      | Junior, Hash Table, String, Bit Manipulation, Sortingg  | Compare characters of both strings while traversing t, and detect the extra character when mismatch occurs. | ✔        |
 | 17  | Contains Duplicate I (Optimized)  | Easy       | Array, Hashing  | Use an unordered_set to track seen elements. If an element is already present in the set, return true. This provides an optimized O(n) solution. | ✔        |
 | 18  | Contains Duplicate II  | Easy       | Array, Hash Table, Sliding Window  | Check all pairs using nested loops; if duplicate values exist within distance ≤ k, return true. | ✔        |
+| 19  | Max Consecutive Ones  | Easy       | Array, Mid Level  | Traverse the array once, counting consecutive `1`s and resetting the count when a `0` appears. Track the maximum count during traversal to get the longest streak.  | ✔        |
 
 > This table is updated daily to reflect consistency and progress.
   
