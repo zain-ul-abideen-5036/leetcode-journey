@@ -64,10 +64,10 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 
 ## Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github&theme=dark"/>
+</div>
+<br/>
 
 ---
 
