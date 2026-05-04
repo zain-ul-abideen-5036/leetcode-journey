@@ -64,10 +64,9 @@ The goal is to strengthen problem-solving skills, improve analytical thinking, a
 
 ## Languages & Tools
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github&theme=dark"/>
 </div>
-<br/>
 
 ---
 
